@@ -18,7 +18,7 @@
 	This is a MODDED version of this script that might or might not be updated.
 	If you know who the creator of this mod is, feel free to make requests or suggest some things.
 	
-	
+	jsjdjdjfgbhcx
 	
 	original version 0.7
 	local version 0.7.7:lerp()
@@ -17525,4 +17525,5 @@ else
 		RoClothes(game.Players:WaitForChild("lerp()"))
 	end
 end
+
 return nil
